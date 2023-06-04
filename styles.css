@@ -1,3 +1,5 @@
+/* this is a comment in .css */
+/* feature3 */
 html {
   font-family: sans-serif;
 }
@@ -21,5 +23,6 @@ h1 {
 }
 
 a {
-  color: #dfb220;
+  color: #fee389;
 }
+
